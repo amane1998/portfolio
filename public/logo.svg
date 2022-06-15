@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 400">
+  <defs>
+    <clipPath id="clip-iPhone_13_12_Pro_1">
+      <rect width="400" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_13_12_Pro_1" data-name="iPhone 13、12 Pro – 1" clip-path="url(#clip-iPhone_13_12_Pro_1)">
+    <path id="合体_1" data-name="合体 1" d="M317.751,247.686,0,400,184,0,0,400,317.751,247.686,184,0,317.751,247.686,399.5,208.5l-81.749,39.186L400,400Z" transform="translate(0 0)" fill="none" stroke="#171717" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

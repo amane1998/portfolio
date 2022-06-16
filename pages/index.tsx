@@ -3,14 +3,14 @@ import Image from "next/image";
 import styles from "../styles/pages/_index.module.scss";
 import dynamic from "next/dynamic";
 
+import Meta from "@/components/meta";
+
 const Nav = dynamic(() => import("@/components/nav"), { ssr: false });
 
 const Index = () => {
   return (
     <>
-      <Head>
-        <title>amane-fujisawa.work</title>
-      </Head>
+      <Meta />
       <Nav />
       <main>
         <section className={styles.sectionKv}>

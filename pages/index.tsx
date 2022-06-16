@@ -27,9 +27,9 @@ const Index = () => {
         <section>
           <h2 id="about">ABOUT</h2>
           <div className={styles.about}>
-            <div className={styles.aboutTitle}>
-              <span>Amane Fujisawa</span>
-              <span className={styles.aboutRole}>Frontend engineer / UI designer</span>
+            <div className={styles.aboutProfile}>
+              <div className={styles.aboutName}>Amane Fujisawa</div>
+              <div className={styles.aboutRole}>Frontend engineer / UI designer</div>
             </div>
             <div>
               <span className={styles.aboutSkill}>

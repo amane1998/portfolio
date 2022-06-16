@@ -47,7 +47,7 @@ const Meta: NextPage<MetaProps> = ({title, thumbnailUrl, description}) => {
 
 Meta.defaultProps = {
 	title: "amane-fujisawa.work",
-	thumbnailUrl: '/kv/kv1.png',
+	thumbnailUrl: 'https://amanefujisawa.work/public/kv/kv1.jpg',
 	description: "amane-fujisawa.workとは、フロントエンドエンジニア・UI/UXデザイナーとして活動している、藤澤天音のポートフォリオサイトです。"
 }
 

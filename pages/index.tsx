@@ -29,13 +29,11 @@ const Index = () => {
           <div className={styles.about}>
             <div className={styles.aboutTitle}>
               <span>Amane Fujisawa</span>
+              <span className={styles.aboutRole}>Frontend engineer / UI designer</span>
             </div>
-            <div className={styles.aboutRole}>
-              <span>Frontend engineer / UI designer</span>
-            </div>
-            <div className={styles.aboutSkill}>
-              <span>
-                HTML / CSS / JavaScript / TypeScript / React / Vue / Next.js
+            <div>
+              <span className={styles.aboutSkill}>
+                HTML , CSS , JavaScript , TypeScript , React , Vue , Next.js
               </span>
             </div>
           </div>

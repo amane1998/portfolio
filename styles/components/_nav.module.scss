@@ -39,5 +39,9 @@
     bottom: 0;
     font-size: 3rem;
     color: #fff;
+
+    @media screen and (max-width: 480px){
+      font-size: 2rem;
+    }
   }
 }
